@@ -1,1 +1,1 @@
-# studing_github
+# studying_github
